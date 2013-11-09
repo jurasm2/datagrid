@@ -1,5 +1,5 @@
 {
-	"name": "project-bubo/datagrid",
+	"name": "jurasm2/datagrid",
 	"type": "library",
 	"description": "Official Bubo CMS Datagrid",
 	"keywords": ["cms", "datagrid"],
@@ -10,8 +10,7 @@
 	],
 	"require": {
 		"php": ">=5.3.0",
-                "nette/nette": "2.0.6",
-                "project-bubo/confirm-dialog": "1.0.*"
+                "nette/nette": "2.0.6"
 	},
 	"autoload": {
 		"classmap": ["src/DataGrid/"]
